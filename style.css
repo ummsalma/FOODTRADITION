@@ -84,11 +84,12 @@ h3{margin-top: 150px;
 
 
 .threeinone img{
-    width: 85%;
+    width: 90%;
     margin-top: 85px;
     padding: 25px;
-    margin-left: 20px;
+    margin-left: px;
     border-radius: 100px;
+    
    
 }
 .four-part-p{
@@ -104,10 +105,10 @@ h5{
 
 .threeinone{box-shadow: 20px 10px 100px rgb(78, 75, 75);
 margin-top: 200px;
-margin-left: 20px;
-margin-right: 20px;
+margin-left: 50px;
+margin-right: 50px;
 border-radius: 50px;
-
+margin-bottom: 50px;
 
 }
 footer{
@@ -116,4 +117,8 @@ footer{
     color: burlywood;
     margin-top: 40px;
     
+}
+
+#thai img{margin-top: -10px;
+
 }
