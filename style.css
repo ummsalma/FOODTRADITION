@@ -10,7 +10,7 @@ body{
 }
 
 .ipone img{
-    width: 60%;
+    width: 66%;
 }
 
 
@@ -21,8 +21,9 @@ body{
     color: rgb(151, 23, 23);
 }
 h2{
-    font-size: 50px;
+    font-size: 70px;
     font-weight: 600;
+    margin-left: 60px;
 }
 .cul{margin-right: 50px;
     padding: 20px;
@@ -68,7 +69,7 @@ h3{margin-top: 150px;
     
 }
 #TURKI{
-    color: hotpink;
+    color: rgb(12, 73, 114);
 }
 .turk{
     margin-top: 25px;
@@ -80,7 +81,21 @@ h3{margin-top: 150px;
 }
 .kababpic img{
     box-shadow: 20px 20px 100px rgb(213, 46, 17);
+    width:80% ;
 }
+.linkb{text-decoration: none;
+    background-color: rgb(59, 250, 240);
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: mintcream;
+    font-weight: 800;
+    margin-left: 150px;
+margin-bottom: 100px;
+
+}
+
+    
+
 
 
 .threeinone img{
