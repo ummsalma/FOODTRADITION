@@ -14,14 +14,17 @@ body{
 }
 
 
-.barger{
+.barger img{
     margin-left: 100px;
+    border-radius: 50px;
+    width: 80%;
+    margin-top: 50px;
 }
 #redtrad{
     color: rgb(151, 23, 23);
 }
 h2{
-    font-size: 70px;
+    font-size: 50px;
     font-weight: 600;
     margin-left: 60px;
 }
@@ -136,4 +139,27 @@ footer{
 
 #thai img{margin-top: -10px;
 
+}
+.fastfood img{margin-top: 70px;
+    width: 100%;
+}
+.icecream img{margin-left: 5px;
+    margin-right: 0;
+    width: 100% ;
+  
+}
+h4{
+    font-size: 50px;
+    font-weight: 600;
+    color: orange;
+   text-align: center;
+   margin-top: 150px;
+    
+}
+#middle{text-align: center;
+font-size: 30px;
+font-weight: 600;
+margin-left: 100px;
+padding: 10px;
+color: rgb(126, 15, 15);
 }
