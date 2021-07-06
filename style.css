@@ -4,6 +4,12 @@
 .halfwifi{
     width: 100%;
 }
+
+.ipone img{
+    width: 25%;
+}
+
+
 .barger{
     margin-left: 100px;
 }
@@ -17,5 +23,18 @@ h2{
 .cul{margin-right: 50px;
     padding: 20px;
     font-size: 25px;
+    margin-left: 50px;
 
+}
+.fourone{
+  
+}
+h3{margin-top: 150px;
+    color: darkred;
+    font-size: 50px;
+    margin-left: 60px;
+}
+.imthree{
+    margin-left: 200px;
+    margin-top: 250px;
 }
