@@ -1,3 +1,7 @@
+body{
+    margin: 0;
+}
+
 .foodtradition{
     display: flex;
 }
@@ -72,10 +76,44 @@ h3{margin-top: 150px;
 .kababpic{
     margin-top: 170px;
     margin-left: 150px;
-
+   
+}
+.kababpic img{
+    box-shadow: 20px 20px 100px rgb(213, 46, 17);
 }
 
 
 .threeinone img{
     width: 85%;
+    margin-top: 85px;
+    padding: 25px;
+    margin-left: 20px;
+    border-radius: 100px;
+   
+}
+.four-part-p{
+font-size: 25px;
+font-weight: 600;
+padding: 20px;
+}
+h5{
+    margin-left: 25px;
+    font-size: 30px;
+
+}
+
+.threeinone{box-shadow: 20px 10px 100px rgb(78, 75, 75);
+margin-top: 200px;
+margin-left: 20px;
+margin-right: 20px;
+border-radius: 50px;
+
+
+}
+footer{
+    background-color: black;
+    text-align:center;
+    color: burlywood;
+    margin-top: 40px;
+    
 }
