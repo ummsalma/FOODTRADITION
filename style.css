@@ -38,3 +38,23 @@ h3{margin-top: 150px;
     margin-left: 200px;
     margin-top: 250px;
 }
+.readone{
+    text-decoration: none;
+    background-color: rgb(59, 250, 240);
+    padding: 10px 40px;
+    border-radius: 5px;
+    background-image: linear-gradient(red rgb(219, 255, 151));
+    color: mintcream;
+    font-weight: 800;
+    margin-left: 500px;
+    
+}
+.bg-img-second{margin-top: 50px;
+    background-image: url(final.jpg);
+    background-repeat: no-repeat;
+    
+}
+.white{
+    color: mintcream;
+    
+}
